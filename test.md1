@@ -1,5 +1,5 @@
 ```ulm
-@startulm
+@startuml
 Alice -> Bob: request
 Bob --> Alice: Response
 @enduml
