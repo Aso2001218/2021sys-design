@@ -1,0 +1,6 @@
+```ulm
+@startulm
+Alice -> Bob: request
+Bob --> Alice: Response
+@enduml
+```
